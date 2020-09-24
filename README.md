@@ -1,4 +1,9 @@
-# PersonAI Chat
+![PersonAI Logo](https://github.com/brandonho667/personaichat/blob/master/personaichat.png)
+
+
+[![Watch the video](https://img.youtube.com/vi/90hBrFeCcrA/maxresdefault.jpg
+)](https://youtu.be/90hBrFeCcrA)
+
 
 ### Built off of:
 
