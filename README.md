@@ -1,6 +1,6 @@
 ![PersonAI Logo](https://github.com/brandonho667/personaichat/blob/master/personaichat.png)
 
-#### AI Chatbot with Customizable Persona -- backend adapted for ProfessorUWU
+*AI Chatbot with Customizable Persona -- backend adapted for ProfessorUWU*
 
 ### Demo Video/Presentation:
 
